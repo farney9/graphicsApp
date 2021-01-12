@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "graphicsApp"
+  "defaultProject": "graphicsApp",
+  "cli": {
+    "analytics": false
+  }
 }
